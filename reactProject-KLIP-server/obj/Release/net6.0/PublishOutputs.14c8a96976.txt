@@ -1,0 +1,17 @@
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\reactProject-KLIP-server.exe
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\reactProject-KLIP-server.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\reactProject-KLIP-server.deps.json
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\reactProject-KLIP-server.runtimeconfig.json
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\reactProject-KLIP-server.pdb
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\System.Data.SqlClient.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Github-projects\reactProject-KLIP-server\reactProject-KLIP-server\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-05-06T16:46:55.9845604Z;True|2024-05-06T19:45:25.3523974+03:00;True|2024-05-06T19:45:06.7739577+03:00;True|2024-05-06T19:39:03.4196220+03:00;True|2024-05-06T12:37:56.3948221+03:00;True|2024-05-06T12:35:03.3974449+03:00;True|2024-05-03T19:32:37.3416410+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
